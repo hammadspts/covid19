@@ -1,0 +1,109 @@
+h1{
+   font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-decoration:underline;
+    
+}
+h1
+{
+    color: black;
+}
+body{
+    background-color:rgb(102, 255, 255)
+}
+
+h3{
+    color: black;
+}
+p{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h6{
+    text-align: left;
+}
+div{
+    text-align: left;
+    background-color: black;
+    color: white;
+}
+#header{
+    color: white;
+    background-color: #ffb31a;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    padding:5px; 
+    
+
+}
+#footer{
+    color: white;
+    background-color: #ffb31a;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    border: black; 
+    
+}
+a{
+    text-transform: uppercase;
+    text-shadow: crimson;
+    text-decoration: darkgreen;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+p{
+    font-size: large;
+    text-shadow: black;
+}
+.icon{
+    width: 50px;
+    height: 50px;
+    border: none;
+}
+.whatsapp{
+    width: 10%;
+    height: 10%;
+}
+input{
+    background-color: rgb(206, 203, 203);
+}
+h4
+{
+    color: gray;
+}
+img{
+    padding:5px;
+}
+h5{
+    color: white;
+    background-color: black;
+    font-size: x-large;
+    padding: 30px;
+    width: 1200PX;
+    border: 10px solid;
+    text-align: center;
+}
+div{
+    background-color: grey;
+}
+a{
+    border:5000px;
+    background-color: gray;
+    display:inline-block
+    ;
+    border-radius: 1000px;
+    text-decoration: solid;
+   color:blue;
+padding: 10px;
+font-size: x-large;
+
+}
+p{
+    border: black;
+}
+ul{
+    text-align: left;
+}
